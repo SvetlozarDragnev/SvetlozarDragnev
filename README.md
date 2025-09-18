@@ -10,6 +10,7 @@
 - 🎓 Graduated: "Vasil Levski" Secondary School, Dulovo — Natural Sciences profile  
 - 💻 Completed: Programming Basics, Fundamentals & Advanced (Java) @ SoftUni  
 - ⚓ Currently: 1st year, **Nikola Vaptsarov Naval Academy – Varna**, ICT
+- 👨🏻‍💼 Chairman of the "White Swallow" Community Center - Dulovo
 
 ---
 
