@@ -2,7 +2,7 @@
 
 **18 y/o · Dulovo, Silistra · Bulgaria**  
 **Student** — Information & Communication Technologies (ICT), 1st year  
-**Graphic & Web Designer** · Programming enthusiast · Guitar teacher · Dreamer
+**Programming enthusiast** · Graphic & Web Designer · Guitar teacher · Dreamer
 
 ---
 
