@@ -1,40 +1,17 @@
 # 👋 Hi, I'm Svetlozar Dragnev
 
-**18 y/o · Dulovo, Silistra · Bulgaria**  
-**Student** — Information & Communication Technologies (ICT), 1st year  
-**Programming enthusiast** · Graphic & Web Designer · Guitar teacher · Dreamer
+ 
+🎓**Student** — Information & Communication Technologies (ICT), 1st year  
+⚓**Nikola Vaptsarov Naval Academy - Varna**
+💻**Programming enthusiast** · Graphic & Web Designer · Guitar teacher · Dreamer
 
 ---
 
-### 💡 Quick facts
-- 🎓 Graduated: "Vasil Levski" Secondary School, Dulovo — Natural Sciences profile  
-- 💻 Completed: Programming Basics, Fundamentals & Advanced (Java) @ SoftUni  
-- ⚓ Currently: 1st year, **Nikola Vaptsarov Naval Academy – Varna**, ICT
-- 👨🏻‍💼 Chairman of the "White Swallow" Community Center - Dulovo
-
----
-
-### 🔭 What I do
-I design clean, usable web interfaces and learn to build them with code. I enjoy:
-- Front-end (HTML, CSS, JavaScript)  
-- Object-oriented programming (Java, C)  
-- Graphic design & visual composition  
-- Teaching guitar and sharing skills
-
----
-
-### 🛠️ Tech & tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🌱 Currently learning
-- Java, C, JavaScript    
-- Version control with Git & GitHub
 
 ---
 
